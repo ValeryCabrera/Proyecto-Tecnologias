@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+.main-container{
+    margin-top: 50px;
+}
+
+*{
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color:#34A1B8;
+}
+
+.btn{
+	margin-top: 10px;
+	border-radius: 10px;
+	border: none;
+}
+
+
+
+h2{
+	color:#34A1B8;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}

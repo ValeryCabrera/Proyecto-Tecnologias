@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+.btn-registrar {
+  color: white;
+	margin-top: 50px;
+	margin-bottom: 50px;
+  background-color:#34A1B8;
+}
+
+.datosRegistro .form-control{
+	border-radius: 20px;
+	margin-top: 20px;
+	box-shadow: 14px 11px 30px -23px ;
+}
+
+.caja{
+	background-color: #D8E6E8;
+	padding-top: 50px;
+	border-radius: 15px;
+}

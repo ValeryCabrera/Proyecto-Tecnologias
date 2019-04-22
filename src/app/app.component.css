@@ -1,0 +1,21 @@
+.container1{
+    background-color: #D8E6E8;
+    height: 150px;
+    }
+   
+    .container1 img{
+        display:block;
+        margin:auto;
+        padding: 15px 0px;
+        }
+    
+        .container1 button{
+            float: right;
+            margin-top: 50px;
+            margin-right: 50px;
+            padding: 10px 20px;
+            }
+
+    .navbar{
+        background-color: #34A1B8;
+    }

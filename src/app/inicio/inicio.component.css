@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+#BannerPrincipal{
+	background-color: grey;
+}
+
+#BannerPrincipal img {
+	height: 400px;
+	filter:brightness(0.4);
+	width: auto;
+
+}
+
+.carousel-caption .btn-color{
+	width: 300px;
+	background-color: #8C8C8C;
+	color: white;
+	border-radius: 15px;
+	border: none;
+}
+
+div .texto{
+	font-size: 15px;
+	font-weight: 0.5px;
+	color: #FFFFFF;
+}
+
+.infografia{
+	background-image:url("../../assets/img/Fondo.png");	
+	background-size:100% 100%;
+}
+.iconos{
+	display: block;
+	margin: auto;
+	padding: 10px 10px 10px 10px;
+	height: 100px;
+	width: 100px;
+	border-style: inherit;
+	border: solid;
+	border-radius: 50px;
+	border-color: #1A837D;	
+	border-width: 10px;
+}
+
+.iconos img{
+	width: auto;
+	height: 55px;
+}
+
+span .salto{
+	padding-bottom: 50px;
+}
